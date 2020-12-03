@@ -46,7 +46,7 @@ print(einstein.strip())
 
 """**Strings**
 
-Python usa a adição para combinar sprints
+Python usa a adição para combinar strings
 
 `title() ` neste caso é um método. Para chamar métodos dentro de funções, basta colocar o "." e o nome do método e os parênteses da chamada depois.
 """
