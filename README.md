@@ -1,2 +1,5 @@
 # Python_Colab
-Meu repositório de estudos de Python
+My Colab studies repository
+
+The activitities were based in:
+- A intensive course of Python
