@@ -1,0 +1,4 @@
+Em Python podemos escrever classes e reutilizar códigos
+Em Python podemos usar a linguagem orientada a objetos
+Em Python podemos ler arquivos
+Em Python podem trabalhar com APIs
